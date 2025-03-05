@@ -1,4 +1,4 @@
-sample.fastq.gz_1.fastq.gz_2,strandedness,id,dex,celltype,geo_id
+sample,fastq_1,fastq_2,strandedness,id,dex,celltype,geo_id
 control_1,https://github.com/Silol-Nanopore-COE/SIRE503_transcriptome/blob/main/0.data/SRR1039508_subset_1.fastq.gz,https://github.com/Silol-Nanopore-COE/SIRE503_transcriptome/blob/main/0.data/SRR1039508_subset_2.fastq.gz,auto,SRR1039508,control,N61311,GSM1275862
 treated_1,https://github.com/Silol-Nanopore-COE/SIRE503_transcriptome/blob/main/0.data/SRR1039509_subset_1.fastq.gz,https://github.com/Silol-Nanopore-COE/SIRE503_transcriptome/blob/main/0.data/SRR1039509_subset_2.fastq.gz,auto,SRR1039509,treated,N61311,GSM1275863
 control_2,https://github.com/Silol-Nanopore-COE/SIRE503_transcriptome/blob/main/0.data/SRR1039512_subset_1.fastq.gz,https://github.com/Silol-Nanopore-COE/SIRE503_transcriptome/blob/main/0.data/SRR1039512_subset_2.fastq.gz,auto,SRR1039512,control,N052611,GSM1275866
